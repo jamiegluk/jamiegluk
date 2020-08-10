@@ -34,7 +34,7 @@
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/yarn.svg" />][yarn]
-[<img align="left" alt="TortoiseSVN" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/tortoisesvn.ico" />][tortoisesvn]
+[<img align="left" alt="TortoiseSVN" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/tortoisesvn.png" />][tortoisesvn]
 
 <br />
 

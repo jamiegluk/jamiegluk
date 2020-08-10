@@ -24,7 +24,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Visual Studio" width="26px" src="./img/visualstudio.svg" />][vs]
+[<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/visualstudio.svg" />][vs]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
 [<img align="left" alt="Less" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" />][less]
@@ -33,8 +33,8 @@
 [<img align="left" alt="MobX" width="26px" src="https://raw.githubusercontent.com/mobxjs/mobx/mobx6/docs/assets/mobx.png" />][mobx]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Node.js" width="26px" src="./img/yarn.svg" />][yarn]
-[<img align="left" alt="TortoiseSVN" width="26px" src="https://tortoisesvn.net/assets/./img/favicons/favicon.ico" />][tortoisesvn]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/yarn.svg" />][yarn]
+[<img align="left" alt="TortoiseSVN" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/tortoisesvn.ico" />][tortoisesvn]
 
 <br />
 

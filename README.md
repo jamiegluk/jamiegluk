@@ -11,49 +11,49 @@
 
 ### Connect with me:
 
-[<img style="margin-right: 12px" alt="jamiegl.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img style="margin-right: 12px" alt="JamieGL | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img style="margin-right: 12px" alt="JamieGL | Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googleplay.svg" />][googleplay]
-[<img style="margin-right: 12px" alt="JamieGL | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img style="margin-right: 12px" alt="JamieGL | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img style="margin-right: 12px" alt="JamieGL | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img style="margin-right: 12px" alt="JamieGL | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img style="margin-right: 12px;" alt="jamiegl.co.uk" title="jamiegl.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img style="margin-right: 12px;" alt="JamieGL | LinkedIn" title="JamieGL | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="margin-right: 12px;" alt="ArtyFishL | Google Play Store" title="ArtyFishL | Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googleplay.svg" />][googleplay]
+[<img style="margin-right: 12px;" alt="@scottish_jamie | Instagram" title="@scottish_jamie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img style="margin-right: 12px;" alt="jamie.lievesley | Facebook" title="jamie.lievesley | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img style="margin-right: 12px;" alt="@scottish_jamie | Twitter" title="@scottish_jamie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img style="margin-right: 12px;" alt="JamieGL | YouTube" title="JamieGL | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 ### Languages and Tools:
 
 #### Web
 
-[<img style="margin-right: 12px" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img style="margin-right: 12px" alt="Typescript" title="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
-[<img style="margin-right: 12px" alt="Less" title="Less" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" />][less]
-[<img style="margin-right: 12px" alt="MobX" title="MobX" width="26px" src="https://raw.githubusercontent.com/mobxjs/mobx/mobx6/docs/assets/mobx.png" />][mobx]
-[<img style="margin-right: 12px" alt="Bootstrap" title="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
-[<img style="margin-right: 12px" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img style="margin-right: 12px" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img style="margin-right: 12px" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img style="margin-right: 12px" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img style="margin-right: 12px;" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img style="margin-right: 12px;" alt="Typescript" title="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
+[<img style="margin-right: 12px;" alt="Less" title="Less" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" />][less]
+[<img style="margin-right: 12px;" alt="MobX" title="MobX" width="26px" src="https://raw.githubusercontent.com/mobxjs/mobx/mobx6/docs/assets/mobx.png" />][mobx]
+[<img style="margin-right: 12px;" alt="Bootstrap" title="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
+[<img style="margin-right: 12px;" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img style="margin-right: 12px;" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img style="margin-right: 12px;" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img style="margin-right: 12px;" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 
 #### Native
 
-[<img style="margin-right: 12px" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
-[<img style="margin-right: 12px" alt=".Net" title=".Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />][dotnet]
-[<img style="margin-right: 12px" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img style="margin-right: 12px" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img style="margin-right: 12px" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img style="margin-right: 12px" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img style="margin-right: 12px" alt="Groovy" title="Groovy" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/groovy/groovy.png" />][groovy]
-[<img style="margin-right: 12px" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img style="margin-right: 12px" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img style="margin-right: 12px;" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
+[<img style="margin-right: 12px;" alt=".Net" title=".Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />][dotnet]
+[<img style="margin-right: 12px;" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img style="margin-right: 12px;" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
+[<img style="margin-right: 12px;" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img style="margin-right: 12px;" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img style="margin-right: 12px;" alt="Groovy" title="Groovy" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/groovy/groovy.png" />][groovy]
+[<img style="margin-right: 12px;" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img style="margin-right: 12px;" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 #### Tools
 
-[<img style="margin-right: 12px" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img style="margin-right: 12px" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/visualstudio.svg" />][vs]
-[<img style="margin-right: 12px" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/yarn.svg" />][yarn]
-[<img style="margin-right: 12px" alt="TortoiseSVN" title="TortoiseSVN" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/tortoisesvn.png" />][tortoisesvn]
-[<img style="margin-right: 12px" alt="NPM" title="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
-[<img style="margin-right: 12px" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img style="margin-right: 12px" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img style="margin-right: 12px;" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img style="margin-right: 12px;" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/visualstudio.svg" />][vs]
+[<img style="margin-right: 12px;" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/yarn.svg" />][yarn]
+[<img style="margin-right: 12px;" alt="TortoiseSVN" title="TortoiseSVN" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/tortoisesvn.png" />][tortoisesvn]
+[<img style="margin-right: 12px;" alt="NPM" title="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
+[<img style="margin-right: 12px;" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img style="margin-right: 12px;" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
 <br />
 

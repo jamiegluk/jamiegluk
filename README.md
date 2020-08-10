@@ -37,6 +37,7 @@
 [<img align="left" alt="TortoiseSVN" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/tortoisesvn.png" />][tortoisesvn]
 
 <br />
+<br />
 
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
@@ -45,6 +46,7 @@
 [<img align="left" alt="Groovy" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/groovy/groovy.png" />][groovy]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 
+<br />
 <br />
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]

@@ -35,7 +35,7 @@
 
 #### Native
 
-[<img hspace="6" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
+[<img hspace="6" alt="C#" title="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
 [<img hspace="6" alt=".Net" title=".Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />][dotnet]
 [<img hspace="6" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img hspace="6" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
@@ -47,8 +47,8 @@
 
 #### Tools
 
-[<img hspace="6" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img hspace="6" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/visualstudio.svg" />][vs]
+[<img hspace="6" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img hspace="6" alt="Visual Studio" title="Visual Studio" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/visualstudio.svg" />][vs]
 [<img hspace="6" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/yarn.svg" />][yarn]
 [<img hspace="6" alt="TortoiseSVN" title="TortoiseSVN" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/tortoisesvn.png" />][tortoisesvn]
 [<img hspace="6" alt="NPM" title="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]

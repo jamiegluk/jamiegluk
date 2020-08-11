@@ -37,6 +37,7 @@
 
 [<img hspace="6" alt="C#" title="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
 [<img hspace="6" alt=".Net" title=".Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />][dotnet]
+[<img hspace="6" alt="SQL Server" title="SQL Server" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/sqlserver.png" />][sqlserver]
 [<img hspace="6" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img hspace="6" alt="Android" title="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img hspace="6" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
@@ -49,9 +50,11 @@
 
 [<img hspace="6" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img hspace="6" alt="Visual Studio" title="Visual Studio" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/visualstudio.svg" />][vs]
-[<img hspace="6" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/yarn.svg" />][yarn]
+[<img hspace="6" alt="Yarn" title="Yarn" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/yarn.svg" />][yarn]
 [<img hspace="6" alt="TortoiseSVN" title="TortoiseSVN" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/tortoisesvn.png" />][tortoisesvn]
 [<img hspace="6" alt="NPM" title="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
+[<img hspace="6" alt="Windows Server" title="Windows Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][winserver]
+[<img hspace="6" alt="SSMS" title="SSMS" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/ssms.png" />][ssms]
 [<img hspace="6" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img hspace="6" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
@@ -81,6 +84,7 @@
 [less]: http://lesscss.org/
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [dotnet]: https://dotnet.microsoft.com/
+[sqlserver]: https://www.microsoft.com/en-gb/sql-server
 [mobx]: https://mobx.js.org
 [bootstrap]: https://getbootstrap.com/
 [nodejs]: https://nodejs.org/en/
@@ -97,5 +101,7 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [sql]: https://en.wikipedia.org/wiki/SQL
 [npm]: https://www.npmjs.com/
+[winserver]: https://www.microsoft.com/en-us/windows-server/
+[ssms]: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
 [github]: https://github.com
 [git]: https://git-scm.com/

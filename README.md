@@ -1,6 +1,6 @@
 ### Hi there, I'm Jamie Lievesley - aka [JamieGL][website] or [ArtyFishL][artyfishl] 👋
 
-## Senior Software Engineer at [Biotronics 3D][b3d]
+## Senior Software Engineer at [OpenRad][openrad]
 
 - 👨‍💻 Full-stack developer.
 - 🎨 UX design.
@@ -66,7 +66,7 @@
 
 [website]: https://jamiegl.co.uk
 [artyfishl]: https://artyfishl.com
-[b3d]: https://www.3dnetmedical.com/public/
+[openrad]: https://www.openrad.com/
 [ris]: https://en.wikipedia.org/wiki/Radiological_information_system
 [pacs]: https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system
 [hl7]: http://www.hl7.org/

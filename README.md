@@ -12,12 +12,12 @@
 ### Connect with me:
 
 [<img hspace="6" alt="jamiegl.co.uk" title="jamiegl.co.uk" width="22px" src="./img/globe.svg" />][website]
-[<img hspace="6" alt="JamieGL | LinkedIn" title="JamieGL | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][linkedin]
-[<img hspace="6" alt="ArtyFishL | Google Play Store" title="ArtyFishL | Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googleplay.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][googleplay]
-[<img hspace="6" alt="@scottish_jamie | Instagram" title="@scottish_jamie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][instagram]
-[<img hspace="6" alt="jamie.lievesley | Facebook" title="jamie.lievesley | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][facebook]
-[<img hspace="6" alt="@scottish_jamie | Twitter" title="@scottish_jamie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][twitter]
-[<img hspace="6" alt="JamieGL | YouTube" title="JamieGL | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][youtube]
+[<img hspace="6" alt="JamieGL | LinkedIn" title="JamieGL | LinkedIn" width="22px" src="./img/linkedin.svg" />][linkedin]
+[<img hspace="6" alt="ArtyFishL | Google Play Store" title="ArtyFishL | Google Play Store" width="22px" src="./img/googleplay.svg" />][googleplay]
+[<img hspace="6" alt="@scottish_jamie | Instagram" title="@scottish_jamie | Instagram" width="22px" src="./img/instagram.svg" />][instagram]
+[<img hspace="6" alt="jamie.lievesley | Facebook" title="jamie.lievesley | Facebook" width="22px" src="./img/facebook.svg" />][facebook]
+[<img hspace="6" alt="@scottish_jamie | Twitter" title="@scottish_jamie | Twitter" width="22px" src="./img/twitter.svg" />][twitter]
+[<img hspace="6" alt="JamieGL | YouTube" title="JamieGL | YouTube" width="22px" src="./img/youtube.svg" />][youtube]
 
 ### Languages and Tools:
 

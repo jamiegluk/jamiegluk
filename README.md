@@ -26,7 +26,7 @@
 [<img hspace="6" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img hspace="6" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
 [<img hspace="6" alt="Less" title="Less" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" />][less]
-[<img hspace="6" alt="MobX" title="MobX" width="26px" src="https://raw.githubusercontent.com/mobxjs/mobx/mobx6/docs/assets/mobx.png" />][mobx]
+[<img hspace="6" alt="MobX" title="MobX" width="26px" src="./img/mobx.svg" />][mobx]
 [<img hspace="6" alt="Bootstrap" title="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 [<img hspace="6" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img hspace="6" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]

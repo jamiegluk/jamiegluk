@@ -62,7 +62,8 @@
 
 ---
 
-<img alt="JamieGL's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jamiegluk&show_icons=true&hide_border=true&theme=dark" />
+<img alt="JamieGL's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jamiegluk&show_icons=true&hide_border=true#gh-light-mode-only" />
+<img alt="JamieGL's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jamiegluk&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" />
 
 [website]: https://jamiegl.co.uk
 [artyfishl]: https://artyfishl.com

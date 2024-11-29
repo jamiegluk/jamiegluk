@@ -55,7 +55,7 @@
 [<img hspace="6" alt="NPM" title="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
 [<img hspace="6" alt="Windows Server" title="Windows Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][winserver]
 [<img hspace="6" alt="SSMS" title="SSMS" width="26px" src="https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/ssms.png" />][ssms]
-[<img hspace="6" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img hspace="6" alt="GitHub" title="GitHub" width="26px" src="./img/github.svg" />][github]
 [<img hspace="6" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
 <br />

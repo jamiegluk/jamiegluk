@@ -16,7 +16,7 @@
 [<img hspace="6" alt="ArtyFishL | Google Play Store" title="ArtyFishL | Google Play Store" width="22px" src="./img/googleplay.svg" />][googleplay]
 [<img hspace="6" alt="@scottish_jamie | Instagram" title="@scottish_jamie | Instagram" width="22px" src="./img/instagram.svg" />][instagram]
 [<img hspace="6" alt="jamie.lievesley | Facebook" title="jamie.lievesley | Facebook" width="22px" src="./img/facebook.svg" />][facebook]
-[<img hspace="6" alt="@scottish_jamie | Twitter" title="@scottish_jamie | Twitter" width="22px" src="./img/twitter.svg" />][twitter]
+[<img hspace="6" alt="@scottish_jamie | X" title="@scottish_jamie | X" width="22px" src="./img/x.svg" />][twitter]
 [<img hspace="6" alt="JamieGL | YouTube" title="JamieGL | YouTube" width="22px" src="./img/youtube.svg" />][youtube]
 
 ### Languages and Tools:

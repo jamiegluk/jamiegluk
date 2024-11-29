@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img hspace="6" alt="jamiegl.co.uk" title="jamiegl.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][website]
+[<img hspace="6" alt="jamiegl.co.uk" title="jamiegl.co.uk" width="22px" src="./img/globe.svg" />][website]
 [<img hspace="6" alt="JamieGL | LinkedIn" title="JamieGL | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][linkedin]
 [<img hspace="6" alt="ArtyFishL | Google Play Store" title="ArtyFishL | Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googleplay.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][googleplay]
 [<img hspace="6" alt="@scottish_jamie | Instagram" title="@scottish_jamie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: invert(49%) sepia(42%) saturate(2252%) hue-rotate(194deg) brightness(100%) contrast(95%);" />][instagram]
